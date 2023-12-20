@@ -1,1 +1,10 @@
-The code will be open source soon
+# Solcen
+Solcen is mainly implemented by the following two py files.
+
+**get_centmatrix.py:** This file is mainly used to get centrality feature vector. 
+
+**classification.py:** This file is mainly used to classify feature vectors.
+
+**Traning_data:** This is part of the actual training set.
+
+The full version of the code and dataset will be open source soon.
